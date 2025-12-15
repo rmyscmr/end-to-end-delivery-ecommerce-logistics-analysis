@@ -1,3 +1,9 @@
+# End-to-End E-Commerce Logistics Analysis (Python & Power BI)
+This project analyzes delivery performance for 50,000 e-commerce orders.
+The workflow includes data cleaning and KPI engineering in Python, followed by
+an interactive Power BI dashboard to evaluate on-time delivery, delivery speed,
+and regional delay patterns.
+
 ## Technical Approach
 
 The project follows an end-to-end analytics workflow, starting from raw data ingestion to business-ready visualization.
@@ -28,14 +34,6 @@ All data preparation is handled in `src/analysis.py` using Python and Pandas:
 
 This separation ensures that all business logic is reproducible in code, while Power BI focuses purely on visualization.
 
-<<<<<<< HEAD
-
-=======
-# End-to-End E-Commerce Logistics Analysis (Python & Power BI)
-This project analyzes delivery performance for 50,000 e-commerce orders.
-The workflow includes data cleaning and KPI engineering in Python, followed by
-an interactive Power BI dashboard to evaluate on-time delivery, delivery speed,
-and regional delay patterns.
 
 ## Power BI Dashboard
 
@@ -71,6 +69,7 @@ Based on the analysis of 50,000 e-commerce orders, several operational insights 
 - **Demand Patterns**
   - Monthly order volume shows clear fluctuations over time.
   - Understanding these trends can help with capacity planning and lead the marketing strategies as well.
+
 
 
 
