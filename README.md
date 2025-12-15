@@ -70,6 +70,13 @@ Based on the analysis of 50,000 e-commerce orders, several operational insights 
   - Monthly order volume shows clear fluctuations over time.
   - Understanding these trends can help with capacity planning and lead the marketing strategies as well.
 
+Recommendations
+The analysis highlights several opportunities to improve both delivery operations and customer experience.
+Refine shipping choices: Shipping options with higher delay rates should be reviewed. For urgent or high-value orders, prioritizing faster delivery methods can help reduce late deliveries and improve reliability.
+Focus on high-delay regions: Some regions experience more frequent delays, suggesting potential last-mile or capacity issues. Targeted logistics improvements in these areas could lead to noticeable performance gains.
+Plan using demand patterns: Order volumes fluctuate over time. Using these trends for inventory and workforce planning can help maintain delivery performance during busy periods.
+Use delivery performance in marketing: Regions and shipping options with strong on-time performance can be promoted as a reliability advantage. Promotions can also be timed during lower-demand periods to balance workload and improve service quality.
+Next steps: Future work could include factoring in product value when selecting shipping methods and using predictive models to flag orders that are likely to be delayed.
 
 
 
