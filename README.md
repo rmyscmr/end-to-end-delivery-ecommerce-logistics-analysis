@@ -47,7 +47,7 @@ produced by the Python analysis pipeline.
 - Interactive filtering by region, shipping mode, and product category
 
 ### Dashboard Overview
-![Dashboard Overview](assets/dashboard_overview.png)
+![Dashboard Overview](end-to-end-delivery-ecommerce-logistics-analysis/assets/dashboard_overview.png)
 
 ## Business Insight
 
@@ -77,6 +77,7 @@ Focus on high-delay regions: Some regions experience more frequent delays, sugge
 Plan using demand patterns: Order volumes fluctuate over time. Using these trends for inventory and workforce planning can help maintain delivery performance during busy periods.
 Use delivery performance in marketing: Regions and shipping options with strong on-time performance can be promoted as a reliability advantage. Promotions can also be timed during lower-demand periods to balance workload and improve service quality.
 Next steps: Future work could include factoring in product value when selecting shipping methods and using predictive models to flag orders that are likely to be delayed.
+
 
 
 
